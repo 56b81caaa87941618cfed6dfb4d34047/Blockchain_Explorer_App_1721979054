@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where do you want the 'Hello World' button to be positioned on the app's interface?\", \"option1\": \"In the main menu\", \"option2\": \"At the bottom of the screen\"}, {\"question 2\": \"What action should occur when the 'Hello World' button is pressed?\", \"option1\": \"Display a message or pop-up saying 'Hello World!'\", \"option2\": \"Redirect to another page or section of the app\"}], \"input_token_count\": 262, \"output_token_count\": 107, \"time_taken\": \"0:00:07.006491\"}",
         "timestamp": "26072024073130",
         "message_id": "guest26072024073122"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a search function to quickly find specific Ethereum blockchains\", \"checked\": true}, {\"feature\": \"Implement real-time blockchain updates with visual indicators\", \"checked\": false}, {\"feature\": \"Incorporate filtering options by various criteria (e.g., transaction volume, date of creation)\", \"checked\": true}, {\"feature\": \"Include detailed views for each blockchain with expandable information sections\", \"checked\": false}, {\"feature\": \"Provide a 'Favorites' feature to easily save and access preferred blockchains\", \"checked\": true}, {\"feature\": \"Offer a 'Learning Center' with tutorials and information about Ethereum blockchains\", \"checked\": false}], \"input_token_count\": 216, \"output_token_count\": 120, \"time_taken\": \"0:00:10.200623\"}",
+        "timestamp": "26072024073133",
+        "message_id": "guest26072024073122"
     }
 ]
